@@ -1,0 +1,49 @@
+
+body {
+    margin: 0; 
+    padding: 0; 
+    background-image: url('particles.jpeg');
+    background-size: cover; 
+    background-position: center;
+    color: #04d9ff;
+} 
+
+.container {
+    padding:180px 50px 50px 80px;
+    justify-content: center;
+    align-items: center;
+    background-image: url('particles.jpeg');
+    background-size: cover;
+    background-position: center;
+    padding-left: 35px;
+    padding-right: auto;
+}
+
+
+.container p {
+    background-color: rgba(0, 0, 0, 0.6); 
+    font-family: arial;
+    text-align: left;
+}
+
+
+.text h1 {
+    font-family: 'Valorant';
+    font-size: 70px;
+}
+
+
+.content {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+
+.footer .container {
+    background-image: url('particles.jpeg');
+    background-color: transparent; 
+}
+
+.footer .container p {
+    background-color: transparent;
+}
